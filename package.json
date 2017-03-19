@@ -1,0 +1,13 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "forrana <forrana@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "dev": "lite-server --baseDir ./app"
+  }
+}
